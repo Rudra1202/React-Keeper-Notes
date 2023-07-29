@@ -22,7 +22,6 @@ function App() {
   }
 
   useEffect(() => {
-    if(note.length)
     localStorage.setItem("notes",JSON.stringify(note));
   }, [note])
   
