@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/React-Keeper-Notes/static/js/main.9a381fa0.chunk.js",
-    "main.js.map": "/React-Keeper-Notes/static/js/main.9a381fa0.chunk.js.map",
+    "main.js": "/React-Keeper-Notes/static/js/main.5c8268b2.chunk.js",
+    "main.js.map": "/React-Keeper-Notes/static/js/main.5c8268b2.chunk.js.map",
     "runtime-main.js": "/React-Keeper-Notes/static/js/runtime-main.ea8af2b9.js",
     "runtime-main.js.map": "/React-Keeper-Notes/static/js/runtime-main.ea8af2b9.js.map",
     "static/js/2.df0d89d3.chunk.js": "/React-Keeper-Notes/static/js/2.df0d89d3.chunk.js",
     "static/js/2.df0d89d3.chunk.js.map": "/React-Keeper-Notes/static/js/2.df0d89d3.chunk.js.map",
     "index.html": "/React-Keeper-Notes/index.html",
-    "precache-manifest.5a03171f9d55ec6f41a8a7314814910a.js": "/React-Keeper-Notes/precache-manifest.5a03171f9d55ec6f41a8a7314814910a.js",
+    "precache-manifest.2a2f3e566956f1389b881daec6ce0019.js": "/React-Keeper-Notes/precache-manifest.2a2f3e566956f1389b881daec6ce0019.js",
     "service-worker.js": "/React-Keeper-Notes/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.ea8af2b9.js",
     "static/js/2.df0d89d3.chunk.js",
-    "static/js/main.9a381fa0.chunk.js"
+    "static/js/main.5c8268b2.chunk.js"
   ]
 }
